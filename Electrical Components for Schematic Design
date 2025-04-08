@@ -1,0 +1,13 @@
+Electrical Components to Include in Schematic Design
+
+  Alpha (Taiwan) - MF01A-N-221-A04 Tactile Force Sesnor:
+    Link: https://www.mouser.com/ProductDetail/Alpha-Taiwan/MF01A-N-221-A04?qs=DPoM0jnrROUNgHvPJi6mkg%3D%3D
+    Datasheet Link: https://www.mouser.com/datasheet/2/13/MF01A__c3_a2_c2_96_c2_a1_A04-1915134.pdf
+
+  Lin Engineering - BL17E28-01-RO:
+    Link: https://www.digikey.com/en/products/detail/lin-engineering/BL17E28-01-RO/11564433
+    Datasheet Link: https://lin-docs.s3-us-west-2.amazonaws.com/datasheets/external/bldc/BL17E28-01-RO.pdf
+
+  Arduino Mega 2560 Rev3:
+    Link: https://store.arduino.cc/products/arduino-mega-2560-rev3
+    Datasheet Link: https://docs.arduino.cc/resources/datasheets/A000067-datasheet.pdf
